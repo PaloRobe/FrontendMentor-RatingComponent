@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontendMentor Page](https://your-solution-url.com)
-- Live Site URL: [GitHub Live](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor Page](https://www.frontendmentor.io/solutions/interactive-rating-component---simple-react-app-NImR_yj87Q)
+- Live Site URL: [GitHub Live](https://palorobe.github.io/FrontendMentor-RatingComponent/)
 
 ## My process
 
