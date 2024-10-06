@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Overpass", sans-serif;
+}
+
+@layer utilities {
+    .bg-custom-radial {
+        background: radial-gradient(100% 100% at 50% 0%,hsl(215,20%,17%) 0%,hsl(216,24%,12%) 100%);
+            
+        
+    }
+  }
+
